@@ -1,0 +1,25 @@
+---
+title: "About this Application"
+output: html_document
+---
+
+This Shiny App defines the distance and time required to go from one point to another in Amsterdam city in the Netherlands. You can define a different mode including driving, bicycling, walking, and public transportation, your starting and destination point using the zipcode or the name of the area(s). The application predicts the best route you can follow presented on a map, and the distance and time required to get from your starting point to the desired destination.
+
+At the beginning, the _About_ tab is selected in order to provide information and instructions on how to use this application.
+
+Instructions:
+
+1. Start by inserting your information (method, starting point, destination), on the left of the page. As soon as you finish completing your information, a _Go_ button will appear below.
+2. Press the _Go_ button to get the best route, distance, and time required in the _Route_ tab.
+3. Select the _Route_ tab to see your results. In case of invalid information an error notification will appear on the screen.Results might take 4-5 seconds to appear.
+
+Examples of areas in Amsterdam you can check:
+* Dam Square
+* Leidseplein
+* De Pijp
+* Amsterdam Centraal
+* Buitenveldert
+* Nieuw Sloten
+
+
+__Note: After reading this information please select the _Route_ tab in order to be able to see your results.__
