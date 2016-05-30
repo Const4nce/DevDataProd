@@ -71,7 +71,7 @@ You can also publish using both formats to github manually using gh-pages, thoug
 [1]: www.coursera.org
 [2]: https://www.coursera.org/learn/data-products
 [3]: https://carcheou.shinyapps.io/Amsterdam_Transportation_App/
-[4]: Const4nce.github.io/DevDataProd/presentation.html
+[4]: https://Const4nce.github.io/DevDataProd/presentation.html
 [5]: https://github.com/Const4nce/DevDataProd/blob/master/server.R
 [6]: https://github.com/Const4nce/DevDataProd/blob/master/ui.R
 [7]: https://github.com/Const4nce/DevDataProd
